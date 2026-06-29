@@ -75,3 +75,11 @@ My Linux learning notes and practice commands
 - Learned git restore
 - Learned git reset
 - Understood staged vs unstaged files
+Learned .gitignore
+Ignored unwanted files
+Created .gitignore file
+Learned git diff
+Learned git restore
+Learned git reset
+Understood staged vs unstaged files
+
