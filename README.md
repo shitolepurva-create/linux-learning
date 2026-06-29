@@ -4,6 +4,7 @@
 My Linux learning notes and practice commands
 
 ## Day 1
+
 - Installed Ubuntu using WSL
 - Opened Ubuntu terminal
 - Learned basic Linux concepts
@@ -11,6 +12,7 @@ My Linux learning notes and practice commands
 - Created first file using terminal
 
 ## Day 2
+
 - Learned pwd command
 - Learned ls command
 - Learned cd command
@@ -18,6 +20,7 @@ My Linux learning notes and practice commands
 - Created folders using mkdir
 
 ## Day 3
+
 - Learned touch command
 - Learned cat command
 - Learned nano editor
@@ -25,12 +28,14 @@ My Linux learning notes and practice commands
 - Removed files using rm
 
 ## Day 4
+
 - Learned cp command
 - Learned mv command
 - Learned file and folder management
 - Practiced copying, moving and renaming files
 
 ## Day 5
+
 - Created GitHub account
 - Installed Git
 - Configured Git username and email
@@ -38,6 +43,7 @@ My Linux learning notes and practice commands
 - Connected local repository with GitHub
 
 ## Day 6
+
 - Learned git status
 - Learned git add
 - Learned git commit
@@ -59,3 +65,13 @@ My Linux learning notes and practice commands
 - Learned Git rebase
 - Learned GitHub Personal Access Token (PAT) authentication
 - Successfully pushed merged changes to GitHub
+
+## Day 8
+
+- Learned .gitignore
+- Ignored unwanted files
+- Created .gitignore file
+- Learned git diff
+- Learned git restore
+- Learned git reset
+- Understood staged vs unstaged files
