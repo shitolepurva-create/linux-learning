@@ -45,8 +45,17 @@ My Linux learning notes and practice commands
 - Learned git log --oneline
 - Updated README.md
 - Successfully pushed changes to GitHub
-Learned git status
-Learned git log
-Updated README file
-Working on feature branch
 
+## Day 7
+
+- Learned Git branching
+- Created a feature branch
+- Switched between main and feature branches
+- Edited README.md in feature branch
+- Checked Git status
+- Committed changes in feature branch
+- Merged feature branch into main
+- Resolved merge conflict
+- Learned Git rebase
+- Learned GitHub Personal Access Token (PAT) authentication
+- Successfully pushed merged changes to GitHub
