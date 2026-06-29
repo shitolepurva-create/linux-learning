@@ -45,3 +45,8 @@ My Linux learning notes and practice commands
 - Learned git log --oneline
 - Updated README.md
 - Successfully pushed changes to GitHub
+Learned git status
+Learned git log
+Updated README file
+Working on feature branch
+
